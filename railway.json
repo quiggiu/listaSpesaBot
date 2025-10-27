@@ -3,7 +3,7 @@
        "builder": "NIXPACKS"
      },
      "deploy": {
-       "startCommand": "python bot_telegram.py",
+       "startCommand": "python listaSpesaBot.py",
        "restartPolicyType": "ON_FAILURE",
        "restartPolicyMaxRetries": 10
      }
